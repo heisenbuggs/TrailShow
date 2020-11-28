@@ -17,6 +17,8 @@
     position: fixed;
     left: 20px;
     width: 80px;
+    top: inherit;
+    height: 60px;
     object-fit: contain;
 }
 
